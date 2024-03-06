@@ -1,0 +1,5 @@
+('NV001', 'Mạc Vũ Anh Đại', '10-08-2005', true, 'Giám đốc'),
+('NV002', 'Nguyễn Ngọc Minh', '10-08-2005', false, 'Phó phòng'),
+('NV003', 'Khâu Văn Phú', '10-08-2005', true, 'Trưởng phòng'),
+('NV004', 'Tống Hải Đăng', '27-12-2005', true, 'Bảo vệ'),
+('NV005', 'Nguyễn Phương Anh', '16-06-2005', false, 'Nhân viên'),
